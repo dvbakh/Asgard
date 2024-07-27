@@ -1,0 +1,4 @@
+python-whatsapp-bot
+gspread 
+oauth2client 
+requests
